@@ -1,5 +1,10 @@
 line1
+<<<<<<< HEAD
 line2
 dev-1
+=======
+fix issue101
+line2
+>>>>>>> 1ef8bc3 (fix bug101)
 
 
